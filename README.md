@@ -22,7 +22,7 @@ Welcome to my portfolio of application development projects. Each repository inc
 
 Feel free to connect with me for collaborations, feedback, or opportunities.
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/satvik-chandrakar-4008471ba))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/satvik-chandrakar-4008471ba)
 - 📧 [Email](mailto:chandrakarsatvik@gmail.com)
 
 
