@@ -1,6 +1,6 @@
 # My Application Development Portfolio
 
-Project Name  | Description 
+| 🚀 Project | 📄 Description |
 ------------- | -------------
 [My Grocery Store](https://github.com/Satvik-ai/MAD-II_Project) | My Grocery Store is a full-stack, multi-user web application that allows users to browse and purchase groceries from various categories. The platform includes admin and store manager features, supports role-based access control, and uses background jobs for reminders and reporting. Tools used :- Flask, Vue.js, SQLite3, CSS(Bootstrap), Redis, Celery.
 [Book Tickets](https://github.com/Satvik-ai/MAD-I_Project) | Book Tickets is a multi-user web application for booking show tickets. It allows users to browse movies, view venues, and book multiple tickets per show. Admins can manage venues and shows. Tools used :- Flask, SQLite3, HTML, CSS(Bootstrap), Jinja2.
