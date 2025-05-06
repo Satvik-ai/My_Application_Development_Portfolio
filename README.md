@@ -25,7 +25,6 @@ Feel free to connect with me for collaborations, feedback, or opportunities.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/satvik-chandrakar-4008471ba)
 - 📧 [Email](mailto:chandrakarsatvik@gmail.com)
 
-
 ---
 
 _Thank you for visiting my portfolio!_
