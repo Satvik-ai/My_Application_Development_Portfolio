@@ -1,4 +1,8 @@
-# My Application Development Portfolio
+# 🧑‍💻 Application Development Portfolio
+
+Welcome to my portfolio of application development projects. Each repository includes source code and implementation details. Click on any project title to explore further.
+
+---
 
 | 🚀 Project | 📄 Description |
 ------------- | -------------
@@ -12,5 +16,16 @@
 [Task Master](https://github.com/Satvik-ai/Task-Master) | An application for managing your daily task and it will make you more productive. It is a simple full stack web application built using flask framework having an SQLite database.
 [Read Articles](https://github.com/Satvik-ai/Flask-Fullstack-Project-Article-Database) | An application to read articles stored in a database. It is a simple full stack web application built using flask framework having an SQLite database.
 
+---
 
-📫 **Contact**: • [Email](mailto:chandrakarsatvik@gmail.com)
+## 📫 Contact
+
+Feel free to connect with me for collaborations, feedback, or opportunities.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 [Email](mailto:your-email@example.com)
+
+
+---
+
+_Thank you for visiting my portfolio!_
